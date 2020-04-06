@@ -6,7 +6,7 @@ What's new?
 
 -Removed my VK token :)
 
--Add token is setting.py
+-Add token in setting.py
 
 -Code optimization
 
