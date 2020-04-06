@@ -68,7 +68,7 @@ class VkBot:
                 except:
                      return s.errMsg
         else:
-           return "Беды с башкой? Введи 'команды' (без кавычек)"
+           return s.nullMsg
 
     @staticmethod
     def _clean_all_tag_from_str(string_line):
